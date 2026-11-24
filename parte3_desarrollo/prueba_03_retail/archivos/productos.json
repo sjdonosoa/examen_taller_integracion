@@ -1,0 +1,189 @@
+{
+  "categorias": [
+    {
+      "nombre": "Lácteos",
+      "productos": [
+        {
+          "sku": "SKU0001",
+          "nombre": "Leche Entera 1L",
+          "costo": 787
+        },
+        {
+          "sku": "SKU0002",
+          "nombre": "Yogurt Frutilla",
+          "costo": 2890
+        },
+        {
+          "sku": "SKU0003",
+          "nombre": "Queso Gauda 250g",
+          "costo": 848
+        },
+        {
+          "sku": "SKU0004",
+          "nombre": "Mantequilla 250g",
+          "costo": 1079
+        },
+        {
+          "sku": "SKU0005",
+          "nombre": "Leche Descremada 1L",
+          "costo": 343
+        }
+      ]
+    },
+    {
+      "nombre": "Panadería",
+      "productos": [
+        {
+          "sku": "SKU0006",
+          "nombre": "Marraqueta kg",
+          "costo": 414
+        },
+        {
+          "sku": "SKU0007",
+          "nombre": "Pan de Molde",
+          "costo": 5354
+        },
+        {
+          "sku": "SKU0008",
+          "nombre": "Hallulla kg",
+          "costo": 2118
+        },
+        {
+          "sku": "SKU0009",
+          "nombre": "Queque Marmoleado",
+          "costo": 1136
+        },
+        {
+          "sku": "SKU0010",
+          "nombre": "Tostadas",
+          "costo": 882
+        }
+      ]
+    },
+    {
+      "nombre": "Bebidas",
+      "productos": [
+        {
+          "sku": "SKU0011",
+          "nombre": "Bebida Cola 3L",
+          "costo": 459
+        },
+        {
+          "sku": "SKU0012",
+          "nombre": "Agua Mineral 1.5L",
+          "costo": 540
+        },
+        {
+          "sku": "SKU0013",
+          "nombre": "Jugo Naranja 1L",
+          "costo": 981
+        },
+        {
+          "sku": "SKU0014",
+          "nombre": "Bebida Light 1.5L",
+          "costo": 399
+        },
+        {
+          "sku": "SKU0015",
+          "nombre": "Néctar Durazno",
+          "costo": 2637
+        }
+      ]
+    },
+    {
+      "nombre": "Limpieza",
+      "productos": [
+        {
+          "sku": "SKU0016",
+          "nombre": "Detergente 3L",
+          "costo": 1505
+        },
+        {
+          "sku": "SKU0017",
+          "nombre": "Lavalozas 750ml",
+          "costo": 700
+        },
+        {
+          "sku": "SKU0018",
+          "nombre": "Cloro 2L",
+          "costo": 1305
+        },
+        {
+          "sku": "SKU0019",
+          "nombre": "Esponja x3",
+          "costo": 453
+        },
+        {
+          "sku": "SKU0020",
+          "nombre": "Papel Higiénico x12",
+          "costo": 2617
+        }
+      ]
+    },
+    {
+      "nombre": "Despensa",
+      "productos": [
+        {
+          "sku": "SKU0021",
+          "nombre": "Arroz 1kg",
+          "costo": 1209
+        },
+        {
+          "sku": "SKU0022",
+          "nombre": "Fideos Spaghetti",
+          "costo": 455
+        },
+        {
+          "sku": "SKU0023",
+          "nombre": "Aceite Maravilla 1L",
+          "costo": 547
+        },
+        {
+          "sku": "SKU0024",
+          "nombre": "Azúcar 1kg",
+          "costo": 723
+        },
+        {
+          "sku": "SKU0025",
+          "nombre": "Harina 1kg",
+          "costo": 1144
+        },
+        {
+          "sku": "SKU0026",
+          "nombre": "Atún Lata",
+          "costo": 622
+        }
+      ]
+    },
+    {
+      "nombre": "Frutas y Verduras",
+      "productos": [
+        {
+          "sku": "SKU0027",
+          "nombre": "Palta Hass kg",
+          "costo": 1821
+        },
+        {
+          "sku": "SKU0028",
+          "nombre": "Tomate kg",
+          "costo": 5553
+        },
+        {
+          "sku": "SKU0029",
+          "nombre": "Plátano kg",
+          "costo": 677
+        },
+        {
+          "sku": "SKU0030",
+          "nombre": "Manzana kg",
+          "costo": 2862
+        },
+        {
+          "sku": "SKU0031",
+          "nombre": "Lechuga",
+          "costo": 598
+        }
+      ]
+    }
+  ]
+}

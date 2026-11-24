@@ -1,0 +1,74 @@
+[
+  {
+    "id": "T01",
+    "nombre": "Express Providencia",
+    "region": "Metropolitana",
+    "metros2": 180
+  },
+  {
+    "id": "T02",
+    "nombre": "Express Ñuñoa",
+    "region": "Metropolitana",
+    "metros2": 150
+  },
+  {
+    "id": "T03",
+    "nombre": "Hiper Maipú",
+    "region": "Metropolitana",
+    "metros2": 1200
+  },
+  {
+    "id": "T04",
+    "nombre": "Hiper La Florida",
+    "region": "Metropolitana",
+    "metros2": 1100
+  },
+  {
+    "id": "T05",
+    "nombre": "Mercado Viña",
+    "region": "Valparaíso",
+    "metros2": 420
+  },
+  {
+    "id": "T06",
+    "nombre": "Mercado Valparaíso",
+    "region": "Valparaíso",
+    "metros2": 380
+  },
+  {
+    "id": "T07",
+    "nombre": "Hiper Concepción",
+    "region": "Biobío",
+    "metros2": 950
+  },
+  {
+    "id": "T08",
+    "nombre": "Express Talcahuano",
+    "region": "Biobío",
+    "metros2": 160
+  },
+  {
+    "id": "T09",
+    "nombre": "Mercado Temuco",
+    "region": "La Araucanía",
+    "metros2": 400
+  },
+  {
+    "id": "T10",
+    "nombre": "Mercado La Serena",
+    "region": "Coquimbo",
+    "metros2": 450
+  },
+  {
+    "id": "T11",
+    "nombre": "Express Antofagasta",
+    "region": "Antofagasta",
+    "metros2": 200
+  },
+  {
+    "id": "T12",
+    "nombre": "Mercado Rancagua",
+    "region": "O'Higgins",
+    "metros2": 0
+  }
+]

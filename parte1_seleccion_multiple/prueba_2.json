@@ -1,0 +1,243 @@
+{
+  "titulo": "Parte 1 - Prueba de práctica 2",
+  "duracion_min": 30,
+  "preguntas": [
+    {
+      "ramo": "Ingeniería de Software",
+      "enunciado": "¿Qué patrón de diseño está mejor representado por el código?",
+      "codigo": "class Compresor:\n    def __init__(self, algoritmo):\n        self.algoritmo = algoritmo\n    def comprimir(self, datos):\n        return self.algoritmo.aplicar(datos)\n\nclass Zip:\n    def aplicar(self, d): return \"zip:\" + d\nclass Gzip:\n    def aplicar(self, d): return \"gz:\" + d\n\nc = Compresor(Zip())\nc.algoritmo = Gzip()\nprint(c.comprimir(\"hola\"))",
+      "alternativas": [
+        "Factory, porque se crean objetos Zip y Gzip.",
+        "Strategy, porque el algoritmo de compresión es intercambiable y se cambia en tiempo de ejecución.",
+        "Adapter, porque Compresor adapta la interfaz de Zip.",
+        "Observer, porque Compresor notifica a los algoritmos.",
+        "Facade, porque Compresor simplifica el uso de Zip y Gzip."
+      ],
+      "correcta": 1,
+      "explicacion": "Compresor es el contexto: guarda una referencia a una estrategia con interfaz común (aplicar) y delega en ella. La estrategia se puede cambiar en ejecución."
+    },
+    {
+      "ramo": "Ingeniería de Software",
+      "enunciado": "¿Cuántas líneas imprime este código?",
+      "codigo": "class Canal:\n    def __init__(self):\n        self.subs = []\n    def suscribir(self, f):\n        self.subs.append(f)\n    def desuscribir(self, f):\n        self.subs.remove(f)\n    def publicar(self, video):\n        for f in self.subs:\n            f(video)\n\ndef ana(v): print(\"Ana vio\", v)\ndef luis(v): print(\"Luis vio\", v)\ndef eva(v): print(\"Eva vio\", v)\n\nc = Canal()\nfor f in (ana, luis, eva):\n    c.suscribir(f)\nc.desuscribir(luis)\nc.publicar(\"Clase 1\")\nc.suscribir(luis)\nc.publicar(\"Clase 2\")",
+      "alternativas": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "2"
+      ],
+      "correcta": 2,
+      "explicacion": "Patrón Observer. 'Clase 1' llega a Ana y Eva (2 líneas); luego Luis vuelve a suscribirse y 'Clase 2' llega a Ana, Eva y Luis (3 líneas). Total 5."
+    },
+    {
+      "ramo": "Ingeniería de Software",
+      "enunciado": "¿Qué patrón representa la función crear_reporte?",
+      "codigo": "def crear_reporte(tipo, datos):\n    clases = {\"pdf\": ReportePDF, \"excel\": ReporteExcel, \"html\": ReporteHTML}\n    return clases[tipo](datos)\n\nr = crear_reporte(\"excel\", ventas)\nr.generar()",
+      "alternativas": [
+        "Singleton",
+        "Observer",
+        "Factory (simple factory): centraliza qué clase concreta se instancia",
+        "Adapter",
+        "Strategy, porque cada reporte es un algoritmo"
+      ],
+      "correcta": 2,
+      "explicacion": "La creación queda centralizada y el cliente trabaja con la interfaz común (generar) sin instanciar clases concretas: Factory."
+    },
+    {
+      "ramo": "Ingeniería de Software",
+      "enunciado": "¿Cuál de los siguientes pares de patrones pertenece a la MISMA familia (GoF)?",
+      "alternativas": [
+        "Adapter y Singleton",
+        "Factory y Observer",
+        "Adapter y Facade",
+        "Strategy y Factory",
+        "Singleton y Observer"
+      ],
+      "correcta": 2,
+      "explicacion": "Creacionales: Factory, Singleton. Estructurales: Adapter, Facade. De comportamiento: Strategy, Observer."
+    },
+    {
+      "ramo": "Ingeniería de Software",
+      "enunciado": "Sobre la arquitectura cliente-servidor, ¿qué afirmación es correcta?",
+      "alternativas": [
+        "El servidor inicia la comunicación enviando datos a los clientes conectados.",
+        "El servidor es necesariamente un computador físico dedicado.",
+        "El cliente inicia la comunicación con un request; un mismo servidor atiende a muchos clientes y puede ser un punto único de falla.",
+        "Todos los nodos son a la vez cliente y servidor.",
+        "El cliente siempre es un navegador web."
+      ],
+      "correcta": 2,
+      "explicacion": "El cliente inicia (request → response). El servidor es el programa que ofrece el servicio y atiende a muchos clientes; su desventaja es ser cuello de botella / SPOF. Todos-iguales es P2P."
+    },
+    {
+      "ramo": "Ingeniería de Software",
+      "enunciado": "Al final de un sprint, el Scrum Team analiza qué salió bien, qué salió mal en su forma de trabajar y se compromete a dos mejoras para el próximo sprint. ¿Qué evento es?",
+      "alternativas": [
+        "Sprint Review",
+        "Sprint Retrospective",
+        "Daily Scrum",
+        "Sprint Planning",
+        "Refinamiento del backlog"
+      ],
+      "correcta": 1,
+      "explicacion": "La Retrospective inspecciona el PROCESO (cómo trabajamos). La Review inspecciona el PRODUCTO (el incremento) con los interesados."
+    },
+    {
+      "ramo": "Gestión de Proyectos TI",
+      "enunciado": "A la fecha de corte: PV = $150, EV = $120 y AC = $100. ¿Cuál es el estado del proyecto?",
+      "alternativas": [
+        "Adelantado y bajo el presupuesto",
+        "Atrasado y bajo el presupuesto",
+        "Adelantado y sobre el presupuesto",
+        "Atrasado y sobre el presupuesto",
+        "Al día y en presupuesto"
+      ],
+      "correcta": 1,
+      "explicacion": "SV = EV − PV = −30 (atrasado; SPI = 0,8). CV = EV − AC = +20 (bajo el presupuesto; CPI = 1,2)."
+    },
+    {
+      "ramo": "Gestión de Proyectos TI",
+      "enunciado": "BAC = $1.000, EV = $400 y AC = $500. ¿Qué índice de desempeño del costo se necesita, de aquí en adelante, para terminar dentro del BAC (TCPI)?",
+      "alternativas": [
+        "0,8",
+        "1,0",
+        "1,2",
+        "1,25",
+        "1,5"
+      ],
+      "correcta": 2,
+      "explicacion": "TCPI = (BAC − EV) / (BAC − AC) = 600 / 500 = 1,2: hay que ser 20 % más eficiente."
+    },
+    {
+      "ramo": "Gestión de Proyectos TI",
+      "enunciado": "Un proyecto tiene una amenaza con 20 % de probabilidad e impacto de −$50.000, y una oportunidad con 30 % de probabilidad e impacto de +$20.000. ¿Cuál es el valor monetario esperado (EMV) total?",
+      "alternativas": [
+        "−$30.000",
+        "−$10.000",
+        "−$4.000",
+        "+$6.000",
+        "−$16.000"
+      ],
+      "correcta": 2,
+      "explicacion": "EMV = 0,2 × (−50.000) + 0,3 × 20.000 = −10.000 + 6.000 = −4.000."
+    },
+    {
+      "ramo": "Gestión de Proyectos TI",
+      "enunciado": "Un jefe de proyecto revisa cada commit, exige reportes de horas diarios, no delega decisiones y premia o castiga solo con bonos, porque cree que su equipo evita el trabajo y la responsabilidad. ¿Qué modelo motivacional refleja?",
+      "alternativas": [
+        "Teoría Y de McGregor",
+        "Teoría X de McGregor",
+        "Teoría Z de Ouchi",
+        "Factores motivadores de Herzberg",
+        "Motivación intrínseca de Daniel Pink"
+      ],
+      "correcta": 1,
+      "explicacion": "Teoría X: supone que las personas evitan el trabajo y la responsabilidad → dirección autoritaria, control estricto y recompensas extrínsecas."
+    },
+    {
+      "ramo": "Gestión de Proyectos TI",
+      "enunciado": "El director del proyecto registra, para cada interesado, su nivel ACTUAL (C) y DESEADO (D) de compromiso: el gerente de finanzas está en 'Reticente' y se necesita que esté en 'Partidario'. ¿Qué artefacto está usando?",
+      "alternativas": [
+        "Matriz poder/interés",
+        "Matriz de evaluación del involucramiento de los interesados",
+        "Matriz de trazabilidad de requisitos",
+        "Registro de riesgos",
+        "Modelo de prominencia"
+      ],
+      "correcta": 1,
+      "explicacion": "La matriz de evaluación del involucramiento compara C vs D en 5 niveles (desconocedor, reticente, neutral, partidario, líder). La de poder/interés mide influencia, no involucramiento."
+    },
+    {
+      "ramo": "Gestión de Proyectos TI",
+      "enunciado": "Actividades: A (3 días), B (4 días, depende de A), C (6 días, depende de A), D (2 días, depende de B y C) y E (5 días, depende de B). El proyecto termina cuando terminan D y E. ¿Cuál es la ruta crítica?",
+      "alternativas": [
+        "A-C-D, 11 días",
+        "A-B-D, 9 días",
+        "A-B-E, 12 días",
+        "A-C-E, 14 días",
+        "A-B-C-D-E, 20 días"
+      ],
+      "correcta": 2,
+      "explicacion": "Rutas: A-B-D = 9, A-C-D = 11, A-B-E = 12. La más larga es A-B-E (12 días). A-C-E no existe porque E depende de B, no de C."
+    },
+    {
+      "ramo": "Gestión de Proyectos TI",
+      "enunciado": "Una historia de usuario entra al backlog el día 1, el equipo comienza a trabajarla el día 6 y se entrega al cliente el día 10. ¿Cuáles son su tiempo de entrega (lead time) y su tiempo de ciclo (cycle time)?",
+      "alternativas": [
+        "Lead time 4 días y cycle time 9 días",
+        "Lead time 9 días y cycle time 4 días",
+        "Lead time 10 días y cycle time 6 días",
+        "Ambos son 9 días",
+        "Lead time 5 días y cycle time 4 días"
+      ],
+      "correcta": 1,
+      "explicacion": "Lead time: desde que se solicita (día 1) hasta que se entrega (día 10) = 9. Cycle time: desde que se empieza (día 6) hasta que se termina (día 10) = 4. Siempre lead ≥ cycle."
+    },
+    {
+      "ramo": "Gestión de Operaciones TI",
+      "enunciado": "Un servicio funciona en promedio 20 días entre fallas (Average Uptime) y tarda en promedio 12 horas en restaurarse (MTRS). ¿Cuál es su disponibilidad aproximada?",
+      "alternativas": [
+        "97,6 %",
+        "95,0 %",
+        "99,0 %",
+        "98,8 %",
+        "94,0 %"
+      ],
+      "correcta": 0,
+      "explicacion": "MTBF = Uptime + MTRS = 480 h + 12 h = 492 h. Disponibilidad ≈ Uptime / MTBF = 480 / 492 = 97,6 %."
+    },
+    {
+      "ramo": "Gestión de Operaciones TI",
+      "enunciado": "Una encuesta de satisfacción de la mesa de servicio recibió 300 respuestas: 150 promotores (9-10), 90 pasivos (7-8) y 60 detractores (0-6). ¿Cuál es el NPS?",
+      "alternativas": [
+        "50",
+        "30",
+        "80",
+        "20",
+        "70"
+      ],
+      "correcta": 1,
+      "explicacion": "NPS = % promotores − % detractores = 50 % − 20 % = 30."
+    },
+    {
+      "ramo": "Gestión de Operaciones TI",
+      "enunciado": "Se publica una vulnerabilidad crítica que ya está siendo explotada contra el portal de clientes y hay que instalar un parche hoy mismo. Según ITIL, ¿qué tipo de cambio es?",
+      "alternativas": [
+        "Cambio estándar, porque instalar parches es frecuente.",
+        "Cambio normal, que debe esperar la próxima sesión del CAB.",
+        "Cambio de emergencia, autorizado por un comité de emergencia (ECAB).",
+        "No es un cambio sino un incidente, así que no requiere autorización.",
+        "Un problema, que se registra en la KEDB."
+      ],
+      "correcta": 2,
+      "explicacion": "Debe implementarse lo antes posible: cambio de emergencia, aprobado por el ECAB. Un cambio estándar es pre-autorizado y de bajo riesgo."
+    },
+    {
+      "ramo": "Gestión de Operaciones TI",
+      "enunciado": "Un banco define que, ante un desastre, puede perder como máximo los últimos 15 minutos de transacciones. ¿Qué métrica es y qué medida ayuda a cumplirla?",
+      "alternativas": [
+        "RTO; tener un sitio alterno en hot standby.",
+        "RPO; aumentar el sincronismo de la réplica (replicación casi en tiempo real).",
+        "MTBF; comprar servidores más confiables.",
+        "RPO; reducir el tiempo de reinicio de los servidores.",
+        "SLA; negociar un OLA con el área de redes."
+      ],
+      "correcta": 1,
+      "explicacion": "RPO = cuánta información se puede perder (punto de recuperación). Se reduce aumentando la frecuencia o el sincronismo de la réplica. El RTO es cuánto tiempo puede estar caído."
+    },
+    {
+      "ramo": "Gestión de Operaciones TI",
+      "enunciado": "El área TI de una empresa cuestiona los requerimientos que recibe, propone soluciones innovadoras, tolera el riesgo de equivocarse y busca extender las capacidades del negocio. Según los 4 roles de TI vistos en el curso, ¿qué posicionamiento tiene?",
+      "alternativas": [
+        "Proveedor de servicios",
+        "Socio estratégico",
+        "Emprendedor / innovador",
+        "Líder de negocios",
+        "Tomador de pedidos"
+      ],
+      "correcta": 2,
+      "explicacion": "Emprendedor/innovador: estilo que cuestiona, soluciones innovadoras, apetito de riesgo, objetivo extender las capacidades del negocio. El proveedor de servicios responde a pedidos y reduce costos; el líder de negocios lidera el cambio."
+    }
+  ]
+}

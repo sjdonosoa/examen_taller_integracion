@@ -1,0 +1,242 @@
+{
+  "titulo": "Parte 1 - Prueba de práctica 1",
+  "duracion_min": 30,
+  "preguntas": [
+    {
+      "ramo": "Ingeniería de Software",
+      "enunciado": "Considere el siguiente código en Python. ¿Qué imprime la última línea?",
+      "codigo": "class Config:\n    _inst = None\n    def __new__(cls):\n        if cls._inst is None:\n            cls._inst = super().__new__(cls)\n        return cls._inst\n    def __init__(self):\n        self.valores = {}\n\na = Config()\na.valores[\"modo\"] = \"prod\"\nb = Config()\nprint(a is b, a.valores)",
+      "alternativas": [
+        "True {'modo': 'prod'}",
+        "True {}",
+        "False {'modo': 'prod'}",
+        "False {}",
+        "Lanza un error porque __new__ no puede sobrescribirse"
+      ],
+      "correcta": 1,
+      "explicacion": "__new__ devuelve siempre la misma instancia (a is b es True), pero __init__ se ejecuta en CADA llamada a Config() y vuelve a dejar valores = {}. Es el bug clásico de Singleton en Python."
+    },
+    {
+      "ramo": "Ingeniería de Software",
+      "enunciado": "Una clase CheckoutService expone un único método comprar(carro, tarjeta) que, internamente, llama a Inventario.reservar(), Pagos.cobrar(), Despacho.programar() y Correo.enviar() en ese orden. El cliente solo conoce CheckoutService. ¿Qué patrón representa mejor esta clase?",
+      "alternativas": [
+        "Adapter, porque traduce la interfaz de Pagos a la que espera el cliente.",
+        "Facade, porque ofrece una interfaz simple a un subsistema de varias clases.",
+        "Observer, porque varias clases reaccionan cuando se llama a comprar().",
+        "Singleton, porque solo debe existir un servicio de checkout.",
+        "Strategy, porque cada paso es un algoritmo intercambiable."
+      ],
+      "correcta": 1,
+      "explicacion": "Facade envuelve MUCHOS objetos de un subsistema y expone una interfaz nueva y más simple. Adapter envuelve UN objeto para volverlo compatible con otra interfaz."
+    },
+    {
+      "ramo": "Ingeniería de Software",
+      "enunciado": "En la mitad de un sprint, el gerente comercial le pide a un desarrollador que agregue de inmediato una funcionalidad 'urgente'. Según Scrum, ¿qué corresponde?",
+      "alternativas": [
+        "El desarrollador la agrega al Sprint Backlog, porque el equipo es auto-organizado.",
+        "El Scrum Master decide si entra en el sprint actual, porque gestiona el proceso.",
+        "Se lleva al Product Owner, que decide si entra al Product Backlog y en qué orden; el objetivo del sprint en curso no se cambia.",
+        "Se cancela el sprint y se planifica uno nuevo con la funcionalidad urgente.",
+        "El gerente comercial la prioriza directamente, porque es un interesado clave."
+      ],
+      "correcta": 2,
+      "explicacion": "El PO es dueño del Product Backlog y lo ordena. El objetivo del sprint no se cambia a mitad de camino; solo el PO podría cancelar el sprint si el objetivo pierde sentido."
+    },
+    {
+      "ramo": "Ingeniería de Software",
+      "enunciado": "Analice la función. ¿Qué problema de diseño muestra principalmente?",
+      "codigo": "def costo_envio(pedido):\n    region = pedido.cliente.direccion.comuna.region.nombre\n    peso = sum(l.producto.ficha.peso_kg * l.cantidad for l in pedido.lineas)\n    return TARIFAS[region] * peso",
+      "alternativas": [
+        "Baja cohesión, porque la función hace demasiadas cosas distintas.",
+        "Alto acoplamiento: conoce la estructura interna de muchas clases (cadenas de acceso que violan la Ley de Demeter).",
+        "Bajo acoplamiento, porque solo recibe un parámetro.",
+        "Uso incorrecto del patrón Strategy.",
+        "Ninguno: es el diseño recomendado porque evita crear métodos auxiliares."
+      ],
+      "correcta": 1,
+      "explicacion": "La función depende de los detalles internos de Pedido, Cliente, Direccion, Comuna, Region, Linea, Producto y Ficha. Cualquier cambio en esas clases la rompe: alto acoplamiento."
+    },
+    {
+      "ramo": "Ingeniería de Software",
+      "enunciado": "En una aplicación con arquitectura de 3 capas (presentación, negocio, datos), el controlador web ejecuta directamente consultas SQL para validar que un RUT no esté repetido antes de crear un cliente. ¿Qué afirmación es correcta?",
+      "alternativas": [
+        "Es correcto: la capa de presentación es la más cercana al usuario y debe validar todo.",
+        "Viola la arquitectura por capas: la presentación se salta la capa de negocio y accede a los datos, aumentando el acoplamiento.",
+        "Es una arquitectura orientada a servicios, porque el controlador ofrece un servicio.",
+        "Es cliente-servidor puro, por lo que las capas no aplican.",
+        "Solo es un problema si la base de datos es relacional."
+      ],
+      "correcta": 1,
+      "explicacion": "En capas, cada capa usa solo la inmediatamente inferior. La regla de negocio (RUT único) vive en la capa de negocio, que a su vez usa la capa de datos."
+    },
+    {
+      "ramo": "Ingeniería de Software",
+      "enunciado": "Un equipo Scrum completó 21, 25 y 23 puntos en tres sprints, y en un cuarto sprint completó 27 puntos más una historia de 8 puntos que quedó a medias. Si al Product Backlog le quedan 168 puntos, ¿cuántos sprints faltan aproximadamente?",
+      "alternativas": [
+        "6 sprints",
+        "7 sprints",
+        "8 sprints",
+        "5 sprints",
+        "No se puede estimar en Scrum"
+      ],
+      "correcta": 1,
+      "explicacion": "Velocidad = (21 + 25 + 23 + 27) / 4 = 24 (la historia a medias no cuenta). 168 / 24 = 7 sprints."
+    },
+    {
+      "ramo": "Gestión de Proyectos TI",
+      "enunciado": "Un proyecto tiene BAC = $500.000. A la fecha de corte debía llevar 50 % de avance, lleva 40 % y se han gastado $260.000. Si el desempeño de costos se mantiene, ¿cuál es la EAC?",
+      "alternativas": [
+        "$520.000",
+        "$560.000",
+        "$625.000",
+        "$650.000",
+        "$760.000"
+      ],
+      "correcta": 3,
+      "explicacion": "EV = 0,4 × 500.000 = 200.000. CPI = EV / AC = 200.000 / 260.000 = 0,769. EAC = BAC / CPI = 500.000 / 0,769 = 650.000."
+    },
+    {
+      "ramo": "Gestión de Proyectos TI",
+      "enunciado": "Para una actividad se estima: optimista 3 días, más probable 6 días y pesimista 15 días. ¿Cuál es la estimación PERT (beta)?",
+      "alternativas": [
+        "6 días",
+        "7 días",
+        "8 días",
+        "9 días",
+        "2 días"
+      ],
+      "correcta": 1,
+      "explicacion": "PERT = (O + 4M + P) / 6 = (3 + 24 + 15) / 6 = 7. (La de tres puntos triangular daría (3 + 6 + 15) / 3 = 8.)"
+    },
+    {
+      "ramo": "Gestión de Proyectos TI",
+      "enunciado": "Las estimaciones de costo de todas las actividades suman $800. La reserva de contingencia es $120 y la reserva de gestión es $80. ¿Cuánto vale el BAC usado en el análisis de valor ganado?",
+      "alternativas": [
+        "$800",
+        "$880",
+        "$920",
+        "$1.000",
+        "$1.080"
+      ],
+      "correcta": 2,
+      "explicacion": "Línea base de costos = estimaciones + reserva de contingencia = 920 = BAC. El presupuesto total (1.000) incluye además la reserva de gestión, que NO forma parte de la línea base."
+    },
+    {
+      "ramo": "Gestión de Proyectos TI",
+      "enunciado": "Una desarrolladora senior domina la tecnología, pero tras recibir críticas fuertes de un cliente nuevo duda de su trabajo y está insegura. Según el modelo de liderazgo situacional SLII, ¿qué estilo debe usar el líder?",
+      "alternativas": [
+        "E1 Dirigir: instrucciones claras y supervisión cercana.",
+        "E2 Entrenar: mucha dirección y mucho apoyo.",
+        "E3 Apoyar: poca dirección y mucho apoyo, decidiendo en conjunto.",
+        "E4 Delegar: poca dirección y poco apoyo.",
+        "Ninguno: SLII solo aplica a personas sin experiencia."
+      ],
+      "correcta": 2,
+      "explicacion": "Competencia alta con compromiso variable = D3 (colaborador capaz pero cauteloso) → E3 Apoyar."
+    },
+    {
+      "ramo": "Gestión de Proyectos TI",
+      "enunciado": "Un ataque de ransomware dejó caído el sistema de pagos en plena hora punta y nadie entiende aún qué está pasando. Según Cynefin, ¿en qué dominio está y cómo se actúa?",
+      "alternativas": [
+        "Claro: detectar → categorizar → responder.",
+        "Complicado: detectar → analizar → responder.",
+        "Complejo: probar → detectar → responder.",
+        "Caótico: actuar → detectar → responder.",
+        "Desorden: no se actúa hasta tener más información."
+      ],
+      "correcta": 3,
+      "explicacion": "Sin relación causa-efecto perceptible y con urgencia: dominio Caótico. Primero se actúa para estabilizar."
+    },
+    {
+      "ramo": "Gestión de Proyectos TI",
+      "enunciado": "En un diagrama de flujo acumulado (CFD), la banda 'En revisión' se ensancha semana a semana mientras la banda 'Terminado' crece muy poco. ¿Qué indica?",
+      "alternativas": [
+        "Que el rendimiento del equipo está aumentando.",
+        "Un cuello de botella en revisión: entra más trabajo del que sale, y aumentan el WIP y el tiempo de ciclo.",
+        "Que el backlog se está vaciando.",
+        "Que la velocidad del equipo es estable.",
+        "Que el proyecto va adelantado según la curva S."
+      ],
+      "correcta": 1,
+      "explicacion": "Una banda que se ensancha en el CFD indica acumulación (WIP creciente) en ese estado: cuello de botella."
+    },
+    {
+      "ramo": "Gestión de Proyectos TI",
+      "enunciado": "Dos líderes técnicos con un poder similar en el proyecto discrepan sobre una decisión de diseño y deben resolverla antes de mañana. Según el PMBOK, ¿qué técnica de resolución de conflictos conviene más?",
+      "alternativas": [
+        "Forzar, imponiendo la postura del más antiguo.",
+        "Retirarse, para que el conflicto se enfríe.",
+        "Comprometer (conciliar): cada parte cede algo para llegar a un acuerdo a tiempo.",
+        "Suavizar, enfatizando solo lo que tienen en común.",
+        "Colaborar con varias sesiones de trabajo durante las próximas semanas."
+      ],
+      "correcta": 2,
+      "explicacion": "Comprometer se recomienda con poder similar y presión de tiempo. Colaborar es lo mejor a largo plazo, pero requiere tiempo y confianza."
+    },
+    {
+      "ramo": "Gestión de Operaciones TI",
+      "enunciado": "Durante tres semanas, cada lunes a las 9:00 decenas de usuarios no pueden entrar al ERP. La mesa de ayuda reinicia el servidor de licencias, el servicio vuelve y los tickets se cierran como resueltos. ¿Qué proceso ITIL se está omitiendo?",
+      "alternativas": [
+        "Gestión de incidentes, porque los tickets se cierran demasiado rápido.",
+        "Gestión de problemas: hay que investigar la causa raíz del fallo recurrente; el reinicio es solo un workaround.",
+        "Gestión de cambios: hay que cambiar de proveedor del ERP.",
+        "Gestión de la capacidad: hay que comprar más servidores.",
+        "Gestión de la continuidad: hay que activar el DRP."
+      ],
+      "correcta": 1,
+      "explicacion": "Los incidentes se están restaurando bien; lo que falta es la gestión de problemas (análisis de causa raíz y solución definitiva)."
+    },
+    {
+      "ramo": "Gestión de Operaciones TI",
+      "enunciado": "¿Cuántas horas al año puede estar caído, como máximo, un data center Tier III (99,982 % de disponibilidad)?",
+      "alternativas": [
+        "Unos 26 minutos",
+        "Aproximadamente 1,6 horas",
+        "Aproximadamente 22,7 horas",
+        "Aproximadamente 28,8 horas",
+        "Cero: un Tier III es tolerante a fallas"
+      ],
+      "correcta": 1,
+      "explicacion": "(1 − 0,99982) × 8.760 h = 1,58 h. 26 min corresponde a Tier IV; 22,7 h a Tier II y 28,8 h a Tier I."
+    },
+    {
+      "ramo": "Gestión de Operaciones TI",
+      "enunciado": "Para cumplir el SLA de disponibilidad con sus usuarios, el área TI firma un acuerdo legal con su proveedor externo de enlaces de internet. ¿Cómo se llama ese acuerdo?",
+      "alternativas": [
+        "SLA (Service Level Agreement)",
+        "OLA (Operational Level Agreement)",
+        "Contrato de soporte (Underpinning Contract, UC)",
+        "Catálogo de servicios",
+        "Acta de constitución"
+      ],
+      "correcta": 2,
+      "explicacion": "SLA: TI con sus clientes. OLA: entre áreas internas. UC: contrato legal con un proveedor externo que respalda el SLA."
+    },
+    {
+      "ramo": "Gestión de Operaciones TI",
+      "enunciado": "Según COBIT, el directorio de una empresa evalúa las opciones, define qué iniciativas de TI se priorizan y monitorea su desempeño. ¿A qué corresponde esta función?",
+      "alternativas": [
+        "A la gestión de TI, liderada por el CIO.",
+        "Al gobierno de TI (Evaluar, Dirigir y Monitorear).",
+        "A la operación del servicio de ITIL.",
+        "A la mesa de servicio de nivel 3.",
+        "A la oficina de proyectos (PMO)."
+      ],
+      "correcta": 1,
+      "explicacion": "Gobierno (directorio): evalúa, dirige y monitorea — '¿hacemos lo correcto?'. Gestión (ejecutivos con el CEO): planifica, construye, ejecuta y monitorea — '¿lo hacemos bien?'."
+    },
+    {
+      "ramo": "Gestión de Operaciones TI",
+      "enunciado": "Un servicio web necesita, en serie, un servidor web (99 %), un servidor de aplicaciones (99,5 %) y una base de datos (98 %). ¿Cuál es la disponibilidad del servicio completo?",
+      "alternativas": [
+        "98,0 %",
+        "98,8 %",
+        "96,5 %",
+        "99,5 %",
+        "99,99 %"
+      ],
+      "correcta": 2,
+      "explicacion": "En serie se multiplican: 0,99 × 0,995 × 0,98 = 0,9653 ≈ 96,5 %. Siempre es menor que la del componente más débil."
+    }
+  ]
+}

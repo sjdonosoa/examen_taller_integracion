@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Correr los casos de esta prueba (main.py)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${fileDirname}/main.py",
+            "cwd": "${fileDirname}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Ejecutar el archivo abierto",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "cwd": "${fileDirname}",
+            "console": "integratedTerminal"
+        }
+    ]
+}

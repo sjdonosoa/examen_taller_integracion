@@ -1,0 +1,22 @@
+sigla,nombre,creditos,prerrequisitos
+IIC1103,Introducción a la Programación,10,
+MAT1610,Cálculo I,10,
+MAT1203,Álgebra Lineal,10,
+FIS1503,Física I,10,
+MAT1620,Cálculo II,10,MAT1610
+IIC2233,Programación Avanzada,10,IIC1103
+IIC1253,Matemáticas Discretas,10,IIC1103
+EYP1113,Probabilidad y Estadística,10,MAT1620
+IIC2133,Estructuras de Datos y Algoritmos,10,IIC2233|IIC1253
+IIC2343,Arquitectura de Computadores,10,IIC1103
+IIC2413,Bases de Datos,10,IIC2233
+IIC2143,Ingeniería de Software,10,IIC2233
+ICS1513,Introducción a la Economía,10,
+ICS2523,Microeconomía,10,ICS1513|MAT1620
+IIC3113,Gestión de Proyectos TI,10,IIC2143
+IIC3703,Gestión de Operaciones TI,10,IIC2413
+IIC2513,Tecnologías y Aplicaciones Web,10,IIC2413|IIC2143
+IIC3143,Desarrollo de Software,10,IIC2143|IIC2513
+IIC3752,Tecnologías para Inteligencia de Negocios,10,IIC2413|EYP1113
+IIC3800,Taller de Integración,15,IIC3143|IIC3113|IIC3703
+FIL188,Ética para Ingenieros,5,

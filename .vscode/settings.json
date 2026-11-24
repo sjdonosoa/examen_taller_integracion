@@ -1,0 +1,10 @@
+{
+    // Simular el examen: sin IA ni autocompletado inteligente.
+    "github.copilot.enable": { "*": false },
+    "chat.disableAIFeatures": true,
+    "editor.inlineSuggest.enabled": false,
+    "python.analysis.typeCheckingMode": "off",
+    "files.encoding": "utf8",
+    "[markdown]": { "editor.wordWrap": "on" },
+    "files.exclude": { "**/__pycache__": true, "**/.pytest_cache": true }
+}

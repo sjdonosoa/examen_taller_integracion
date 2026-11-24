@@ -1,0 +1,45 @@
+﻿id_estacion,nombre,comuna,capacidad
+E101,Plaza de Armas,Santiago,12
+E102,Bellas Artes,Santiago,20
+E103,Santa Lucía,Santiago,30
+E104,Barrio Lastarria,Santiago,30
+E105,La Moneda,Santiago,12
+E106,Parque Almagro,Santiago,15
+E107,Santa Isabel,Santiago,30
+E108,Barrio Brasil,Santiago,20
+E109,Estación Central Norte,Santiago,30
+E110,Mapocho,Santiago,24
+E111,Pedro de Valdivia,Providencia,24
+E112,Manuel Montt,Providencia,15
+E113,  Los Leones ,Providencia,0
+E114,Salvador,Providencia,12
+E115,Baquedano,Providencia,12
+E116,Inés de Suárez,Providencia,18
+E117,Tobalaba,Providencia,12
+E118,Parque Bustamante,Providencia,24
+E119,El Golf,Las Condes,0
+E120,Escuela Militar,Las Condes,24
+E121,Apoquindo,Las Condes,20
+E122,Manquehue,Las Condes,15
+E123,Alcántara,Las Condes,20
+E124,Parque Araucano,Las Condes,18
+E125,Rotonda Atenas,Las Condes,20
+E126,Plaza Ñuñoa,Ñuñoa,20
+E127,Irarrázaval,Ñuñoa,20
+E128,Villa Frei,Ñuñoa,30
+E129,Estadio Nacional,Ñuñoa,12
+E130,Chile España,Ñuñoa,20
+E131,Suecia Sur,Ñuñoa,12
+E132,Parque Bicentenario,Vitacura,30
+E133,  Alonso de Córdova ,Vitacura,30
+E134,Nueva Costanera,Vitacura,18
+E135,Lo Curro,Vitacura,0
+E136,Príncipe de Gales,La Reina,18
+E137,Plaza Egaña,La Reina,24
+E138,Parque Mahuida,La Reina,15
+E139,Patronato,Recoleta,18
+E140,  Cementerio General ,Recoleta,0
+E141,Vega Central,Recoleta,20
+E142,Gran Avenida,San Miguel,20
+E143,El Llano,San Miguel,24
+E144,Lo Vial,San Miguel,20

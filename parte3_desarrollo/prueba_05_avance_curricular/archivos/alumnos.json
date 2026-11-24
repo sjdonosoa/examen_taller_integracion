@@ -1,0 +1,7645 @@
+{
+  "universidad": "UC",
+  "alumnos": [
+    {
+      "numero": "21672349",
+      "nombre": "Vicente Silva",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "2,9"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "6,2"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "6,2"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2024-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-1",
+          "nota": "2,1"
+        }
+      ]
+    },
+    {
+      "numero": "21636139",
+      "nombre": "Emilia Soto",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "2,0"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-1",
+          "nota": "6,9"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-1",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-2",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2024-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2025-1",
+          "nota": "6,5"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2025-1",
+          "nota": "6,3"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2025-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2025-2",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2025-2",
+          "nota": "4,0"
+        }
+      ]
+    },
+    {
+      "numero": "21670177",
+      "nombre": "Diego Rodríguez",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "6,4"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "6,3"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "2,8"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "3,2"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "3,3"
+        }
+      ]
+    },
+    {
+      "numero": "21615620",
+      "nombre": "Matías Díaz",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "1,8"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "2,9"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "6,3"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "6,9"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "3,9"
+        }
+      ]
+    },
+    {
+      "numero": "21626227",
+      "nombre": "Florencia Sepúlveda",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "6,4"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2023-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2023-2",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-2",
+          "nota": "5,7"
+        }
+      ]
+    },
+    {
+      "numero": "21661465",
+      "nombre": "Joaquín Martínez",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "2,8"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "3,3"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "6,7"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-1",
+          "nota": "2,6"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "6,4"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-2",
+          "nota": "6,9"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-2",
+          "nota": "6,0"
+        }
+      ]
+    },
+    {
+      "numero": "21640853",
+      "nombre": "Florencia Morales",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-1",
+          "nota": "6,4"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "3,2"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2024-1",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-1",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-2",
+          "nota": "2,1"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-2",
+          "nota": "6,5"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2024-2",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-2",
+          "nota": "3,2"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2025-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2025-1",
+          "nota": "5,1"
+        }
+      ]
+    },
+    {
+      "numero": "21613979",
+      "nombre": "Diego Soto",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2023-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "6,4"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-2",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-2",
+          "nota": "6,6"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2025-1",
+          "nota": "5,3"
+        }
+      ]
+    },
+    {
+      "numero": "21621443",
+      "nombre": "Diego Soto",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "6,5"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "6,9"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "6,7"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2025-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2025-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2025-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2025-2",
+          "nota": "NP"
+        }
+      ]
+    },
+    {
+      "numero": "21621041",
+      "nombre": "Vicente Contreras",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2023-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2023-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2023-2",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2023-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2023-2",
+          "nota": "4,2"
+        }
+      ]
+    },
+    {
+      "numero": "21618273",
+      "nombre": "Isidora Díaz",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "6,3"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "6,6"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "6,2"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-2",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2025-1",
+          "nota": "6,4"
+        }
+      ]
+    },
+    {
+      "numero": "2165751J",
+      "nombre": "Sofía Sepúlveda",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "6,9"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-2",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2024-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "IIC3800",
+          "semestre": "2025-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC3800",
+          "semestre": "2025-2",
+          "nota": "6,4"
+        }
+      ]
+    },
+    {
+      "numero": "21633812",
+      "nombre": "Emilia Rodríguez",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "4,2"
+        }
+      ]
+    },
+    {
+      "numero": "21654342",
+      "nombre": "Agustín Fuentes",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "3,2"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "6,4"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "6,3"
+        }
+      ]
+    },
+    {
+      "numero": "2162162J",
+      "nombre": "Javiera Soto",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "6,4"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2023-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "6,6"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-2",
+          "nota": "6,9"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2024-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-2",
+          "nota": "6,3"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2024-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2025-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2025-1",
+          "nota": "4,4"
+        }
+      ]
+    },
+    {
+      "numero": "2167778J",
+      "nombre": "Antonia Sepúlveda",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-1",
+          "nota": "6,3"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-1",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-2",
+          "nota": "7,0"
+        }
+      ]
+    },
+    {
+      "numero": "21697335",
+      "nombre": "Vicente Muñoz",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "1,9"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2024-1",
+          "nota": "6,3"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-2",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-2",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2025-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2025-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2025-1",
+          "nota": "4,9"
+        }
+      ]
+    },
+    {
+      "numero": "21606472",
+      "nombre": "Josefa González",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "4,2"
+        }
+      ]
+    },
+    {
+      "numero": "21660033",
+      "nombre": "Benjamín Rodríguez",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "6,3"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2023-1",
+          "nota": "5,3"
+        }
+      ]
+    },
+    {
+      "numero": "21644740",
+      "nombre": "Benjamín González",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "2,6"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-1",
+          "nota": "3,3"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "6,8"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2023-1",
+          "nota": "5,1"
+        }
+      ]
+    },
+    {
+      "numero": "21668475",
+      "nombre": "Emilia Rodríguez",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "6,4"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "6,1"
+        }
+      ]
+    },
+    {
+      "numero": "21632101",
+      "nombre": "Isidora Martínez",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "3,0"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "6,2"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2023-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2023-1",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-2",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-2",
+          "nota": "6,2"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-1",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-1",
+          "nota": "5,1"
+        }
+      ]
+    },
+    {
+      "numero": "21621894",
+      "nombre": "Javiera Muñoz",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2023-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2023-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "6,8"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2023-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2024-1",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2024-1",
+          "nota": "2,5"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-1",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2024-2",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2024-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-2",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2025-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2025-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2025-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2025-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2025-2",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2025-2",
+          "nota": "2,3"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2025-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2025-2",
+          "nota": "4,7"
+        }
+      ]
+    },
+    {
+      "numero": "21615462",
+      "nombre": "Benjamín Rodríguez",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "3,3"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "6,9"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-1",
+          "nota": "6,6"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-1",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2024-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2024-2",
+          "nota": "6,7"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-2",
+          "nota": "2,8"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2024-2",
+          "nota": "5,5"
+        }
+      ]
+    },
+    {
+      "numero": "21608675",
+      "nombre": "Joaquín Fuentes",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2023-2",
+          "nota": "4,4"
+        }
+      ]
+    },
+    {
+      "numero": "21629907",
+      "nombre": "Diego Silva",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "3,3"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2023-1",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2023-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-1",
+          "nota": "2,9"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2024-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-2",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2024-2",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2024-2",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "IIC3800",
+          "semestre": "2025-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2025-1",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2025-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2025-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2025-2",
+          "nota": "5,5"
+        }
+      ]
+    },
+    {
+      "numero": "21684200",
+      "nombre": "Matías Morales",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "6,7"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "5,6"
+        }
+      ]
+    },
+    {
+      "numero": "21689753",
+      "nombre": "Florencia Muñoz",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "1,2"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-2",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-2",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-1",
+          "nota": "3,0"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-1",
+          "nota": "6,6"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-2",
+          "nota": "5,1"
+        }
+      ]
+    },
+    {
+      "numero": "21691892",
+      "nombre": "Isidora Morales",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "6,9"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2023-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2023-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-2",
+          "nota": "3,2"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2023-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2023-2",
+          "nota": "6,5"
+        }
+      ]
+    },
+    {
+      "numero": "2162494J",
+      "nombre": "Catalina Rodríguez",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "2,9"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "3,3"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-1",
+          "nota": "5,3"
+        }
+      ]
+    },
+    {
+      "numero": "21682397",
+      "nombre": "Florencia Fuentes",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "6,2"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-1",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2024-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2024-2",
+          "nota": "3,9"
+        }
+      ]
+    },
+    {
+      "numero": "21626495",
+      "nombre": "Antonia López",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "2,9"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "6,6"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "6,2"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2023-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2023-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-2",
+          "nota": "3,1"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2025-1",
+          "nota": "6,5"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2025-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2025-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2025-1",
+          "nota": "5,1"
+        }
+      ]
+    },
+    {
+      "numero": "21644121",
+      "nombre": "Agustín Fuentes",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "6,5"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "5,2"
+        }
+      ]
+    },
+    {
+      "numero": "21660777",
+      "nombre": "Catalina Muñoz",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "6,5"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "3,3"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2024-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2025-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2025-1",
+          "nota": "3,2"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2025-1",
+          "nota": "4,9"
+        }
+      ]
+    },
+    {
+      "numero": "2168665J",
+      "nombre": "Martín Rodríguez",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "2,0"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "4,1"
+        }
+      ]
+    },
+    {
+      "numero": "21666653",
+      "nombre": "Lucas Soto",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2023-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-2",
+          "nota": "6,8"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-2",
+          "nota": "5,6"
+        }
+      ]
+    },
+    {
+      "numero": "21696287",
+      "nombre": "Cristóbal Morales",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-1",
+          "nota": "3,2"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2023-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-1",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "6,4"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-2",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-1",
+          "nota": "3,2"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2024-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-2",
+          "nota": "3,1"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2024-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2025-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2025-1",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2025-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2025-2",
+          "nota": "3,8"
+        }
+      ]
+    },
+    {
+      "numero": "21626147",
+      "nombre": "Martín Pérez",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "3,0"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-1",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-2",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-2",
+          "nota": "3,2"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2025-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2025-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2025-1",
+          "nota": "4,1"
+        }
+      ]
+    },
+    {
+      "numero": "21662983",
+      "nombre": "Benjamín Silva",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "6,9"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "3,2"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2024-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2024-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-2",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-2",
+          "nota": "3,0"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2025-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2025-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC3800",
+          "semestre": "2025-2",
+          "nota": "5,7"
+        }
+      ]
+    },
+    {
+      "numero": "21699702",
+      "nombre": "Javiera Morales",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "3,3"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "3,3"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-1",
+          "nota": "1,6"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2023-2",
+          "nota": "3,1"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2024-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2024-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-2",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-2",
+          "nota": "6,4"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2025-1",
+          "nota": "5,8"
+        }
+      ]
+    },
+    {
+      "numero": "2161111J",
+      "nombre": "Tomás Rodríguez",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "2,3"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "6,9"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "6,0"
+        }
+      ]
+    },
+    {
+      "numero": "21673256",
+      "nombre": "Joaquín Rodríguez",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "2,6"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "1,9"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-2",
+          "nota": "3,3"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-2",
+          "nota": "5,3"
+        }
+      ]
+    },
+    {
+      "numero": "21618495",
+      "nombre": "Isidora López",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "6,7"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,6"
+        }
+      ]
+    },
+    {
+      "numero": "21676077",
+      "nombre": "Florencia Pérez",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "6,8"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "3,3"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-2",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-1",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2025-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2025-2",
+          "nota": "3,4"
+        }
+      ]
+    },
+    {
+      "numero": "21681865",
+      "nombre": "Matías López",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "2,5"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "3,3"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "2,4"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-1",
+          "nota": "3,1"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2023-1",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-2",
+          "nota": "4,2"
+        }
+      ]
+    },
+    {
+      "numero": "21639332",
+      "nombre": "Javiera Morales",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "6,9"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "2,4"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2023-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "3,2"
+        }
+      ]
+    },
+    {
+      "numero": "21677663",
+      "nombre": "Javiera González",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "6,4"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "6,6"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "4,6"
+        }
+      ]
+    },
+    {
+      "numero": "2167878J",
+      "nombre": "Emilia Muñoz",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "2,8"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "3,2"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-1",
+          "nota": "5,9"
+        }
+      ]
+    },
+    {
+      "numero": "21625755",
+      "nombre": "Emilia Muñoz",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "6,4"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "1,6"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "2,5"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-1",
+          "nota": "2,5"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2023-2",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-2",
+          "nota": "3,2"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2024-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-2",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2025-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2025-1",
+          "nota": "5,4"
+        }
+      ]
+    },
+    {
+      "numero": "21674937",
+      "nombre": "Vicente Morales",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-1",
+          "nota": "3,3"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2023-1",
+          "nota": "4,4"
+        }
+      ]
+    },
+    {
+      "numero": "21685330",
+      "nombre": "Antonia Contreras",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        }
+      ]
+    },
+    {
+      "numero": "21658138",
+      "nombre": "Agustín Contreras",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "6,2"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        }
+      ]
+    },
+    {
+      "numero": "21658053",
+      "nombre": "Antonia Silva",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "6,0"
+        }
+      ]
+    },
+    {
+      "numero": "2164514J",
+      "nombre": "Agustín López",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "6,6"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "6,5"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "2,7"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-1",
+          "nota": "3,3"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "6,2"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-2",
+          "nota": "3,1"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2024-1",
+          "nota": "3,2"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2024-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-2",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2025-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2025-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2025-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2025-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2025-1",
+          "nota": "NP"
+        }
+      ]
+    },
+    {
+      "numero": "21637182",
+      "nombre": "Sofía González",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2023-1",
+          "nota": "3,1"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2023-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2023-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2024-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-2",
+          "nota": "2,4"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2024-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2024-2",
+          "nota": "6,9"
+        }
+      ]
+    },
+    {
+      "numero": "2167472J",
+      "nombre": "Emilia Sepúlveda",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "2,5"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "3,2"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2023-1",
+          "nota": "3,2"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "6,2"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2023-2",
+          "nota": "6,3"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2023-2",
+          "nota": "3,8"
+        }
+      ]
+    },
+    {
+      "numero": "21619129",
+      "nombre": "Joaquín González",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "2,6"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2023-1",
+          "nota": "2,9"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "4,9"
+        }
+      ]
+    },
+    {
+      "numero": "21600185",
+      "nombre": "Josefa Díaz",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2023-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-1",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2024-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-2",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-2",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2025-1",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2025-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2025-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2025-1",
+          "nota": "1,5"
+        }
+      ]
+    },
+    {
+      "numero": "21628767",
+      "nombre": "Tomás Silva",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "2,5"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2023-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "6,5"
+        }
+      ]
+    },
+    {
+      "numero": "2164077J",
+      "nombre": "Trinidad Silva",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "2,6"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-1",
+          "nota": "6,5"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2023-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-2",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2024-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2024-1",
+          "nota": "3,1"
+        }
+      ]
+    },
+    {
+      "numero": "21649559",
+      "nombre": "Antonia Sepúlveda",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-1",
+          "nota": "2,3"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2023-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2023-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2024-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-1",
+          "nota": "6,7"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-2",
+          "nota": "3,1"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-2",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2025-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2025-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2025-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC3800",
+          "semestre": "2025-2",
+          "nota": "7,0"
+        }
+      ]
+    },
+    {
+      "numero": "21675423",
+      "nombre": "Lucas González",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "6,7"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "6,3"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "6,5"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-1",
+          "nota": "6,4"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-1",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2023-2",
+          "nota": "6,5"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2024-2",
+          "nota": "6,7"
+        },
+        {
+          "sigla": "IIC3800",
+          "semestre": "2025-1",
+          "nota": "6,5"
+        }
+      ]
+    },
+    {
+      "numero": "21610722",
+      "nombre": "Martín Contreras",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-1",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2023-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-2",
+          "nota": "2,4"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2024-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2024-1",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2024-2",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-2",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-2",
+          "nota": "6,5"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2025-1",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2025-1",
+          "nota": "6,7"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2025-1",
+          "nota": "6,7"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2025-1",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2025-1",
+          "nota": "3,5"
+        }
+      ]
+    },
+    {
+      "numero": "21609957",
+      "nombre": "Cristóbal López",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "6,6"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-1",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "4,0"
+        }
+      ]
+    },
+    {
+      "numero": "21600914",
+      "nombre": "Florencia Díaz",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "6,8"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "3,1"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2023-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-2",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-2",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2024-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-2",
+          "nota": "6,6"
+        }
+      ]
+    },
+    {
+      "numero": "21600046",
+      "nombre": "Diego Hernández",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "6,2"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "3,2"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "6,5"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "6,0"
+        }
+      ]
+    },
+    {
+      "numero": "21688684",
+      "nombre": "Cristóbal Pérez",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "2,9"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "6,2"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-1",
+          "nota": "3,3"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "3,4"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2024-1",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-1",
+          "nota": "2,4"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-2",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-2",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2024-2",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2024-2",
+          "nota": "5,1"
+        }
+      ]
+    },
+    {
+      "numero": "21637941",
+      "nombre": "Trinidad Martínez",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "3,8"
+        }
+      ]
+    },
+    {
+      "numero": "21661868",
+      "nombre": "Isidora Contreras",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "6,8"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-1",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2023-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-1",
+          "nota": "6,5"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-1",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "6,7"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2023-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2024-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2024-2",
+          "nota": "5,0"
+        }
+      ]
+    },
+    {
+      "numero": "21666875",
+      "nombre": "Agustín Muñoz",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "6,3"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "5,2"
+        }
+      ]
+    },
+    {
+      "numero": "21666803",
+      "nombre": "Valentina Rojas",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "3,3"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "2,8"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "6,6"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "6,2"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "3,1"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2024-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2024-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-2",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-2",
+          "nota": "3,0"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2025-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2025-1",
+          "nota": "4,9"
+        }
+      ]
+    },
+    {
+      "numero": "21629495",
+      "nombre": "Benjamín Martínez",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2023-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-2",
+          "nota": "6,2"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2024-1",
+          "nota": "6,3"
+        }
+      ]
+    },
+    {
+      "numero": "21650216",
+      "nombre": "Antonia Rodríguez",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "2,9"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-2",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "6,8"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "6,5"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-1",
+          "nota": "3,6"
+        }
+      ]
+    },
+    {
+      "numero": "2165588J",
+      "nombre": "Lucas Muñoz",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-2",
+          "nota": "6,0"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2023-2",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "NP"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-1",
+          "nota": "6,9"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-1",
+          "nota": "6,9"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "4,8"
+        }
+      ]
+    },
+    {
+      "numero": "21695320",
+      "nombre": "Agustín Fuentes",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "3,0"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "2,4"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-1",
+          "nota": "6,3"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2023-1",
+          "nota": "2,4"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2023-2",
+          "nota": "1,9"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-2",
+          "nota": "2,2"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2024-1",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-2",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2024-2",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2025-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2025-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2025-1",
+          "nota": "5,3"
+        }
+      ]
+    },
+    {
+      "numero": "21639380",
+      "nombre": "Diego Fuentes",
+      "carrera": "College",
+      "historial": [
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-2",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2023-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "4,3"
+        }
+      ]
+    },
+    {
+      "numero": "21677134",
+      "nombre": "Josefa Rojas",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,8"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "6,3"
+        }
+      ]
+    },
+    {
+      "numero": "21631669",
+      "nombre": "Tomás Morales",
+      "carrera": "Ingeniería Civil",
+      "historial": [
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "6,5"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "5,1"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2022-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-1",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2023-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-1",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-2",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "4,2"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-2",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-1",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-1",
+          "nota": "3,7"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-1",
+          "nota": "5,0"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-2",
+          "nota": "6,2"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-2",
+          "nota": "5,2"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2024-2",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "IIC3800",
+          "semestre": "2025-1",
+          "nota": "3,8"
+        },
+        {
+          "sigla": "IIC3800",
+          "semestre": "2025-2",
+          "nota": "4,7"
+        }
+      ]
+    },
+    {
+      "numero": "21695013",
+      "nombre": "Florencia López",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "3,9"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "NP"
+        },
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-2",
+          "nota": "6,1"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2022-2",
+          "nota": "2,2"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-2",
+          "nota": "3,0"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2023-1",
+          "nota": "5,9"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2023-1",
+          "nota": "5,5"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-2",
+          "nota": "6,2"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2023-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2023-2",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2023-2",
+          "nota": "4,9"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2023-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2024-1",
+          "nota": "4,7"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-1",
+          "nota": "2,0"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2024-2",
+          "nota": "5,6"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-2",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2024-2",
+          "nota": "4,8"
+        }
+      ]
+    },
+    {
+      "numero": "21629779",
+      "nombre": "Lucas Díaz",
+      "carrera": "Licenciatura en Ingeniería",
+      "historial": [
+        {
+          "sigla": "MAT1610",
+          "semestre": "2022-1",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "ICS1513",
+          "semestre": "2022-1",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "MAT1203",
+          "semestre": "2022-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "IIC1103",
+          "semestre": "2022-1",
+          "nota": "4,1"
+        },
+        {
+          "sigla": "FIL188",
+          "semestre": "2022-1",
+          "nota": "5,7"
+        },
+        {
+          "sigla": "IIC2343",
+          "semestre": "2022-2",
+          "nota": "7,0"
+        },
+        {
+          "sigla": "MAT1620",
+          "semestre": "2022-2",
+          "nota": "4,6"
+        },
+        {
+          "sigla": "IIC1253",
+          "semestre": "2022-2",
+          "nota": "6,3"
+        },
+        {
+          "sigla": "IIC2233",
+          "semestre": "2023-1",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "ICS2523",
+          "semestre": "2023-1",
+          "nota": "6,3"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-1",
+          "nota": "3,6"
+        },
+        {
+          "sigla": "EYP1113",
+          "semestre": "2023-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC2143",
+          "semestre": "2023-2",
+          "nota": "5,8"
+        },
+        {
+          "sigla": "FIS1503",
+          "semestre": "2023-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC2413",
+          "semestre": "2023-2",
+          "nota": "5,4"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-1",
+          "nota": "3,5"
+        },
+        {
+          "sigla": "IIC3113",
+          "semestre": "2024-1",
+          "nota": "4,5"
+        },
+        {
+          "sigla": "IIC3703",
+          "semestre": "2024-1",
+          "nota": "5,3"
+        },
+        {
+          "sigla": "IIC3752",
+          "semestre": "2024-2",
+          "nota": "4,3"
+        },
+        {
+          "sigla": "IIC2133",
+          "semestre": "2024-2",
+          "nota": "4,4"
+        },
+        {
+          "sigla": "IIC2513",
+          "semestre": "2024-2",
+          "nota": "4,0"
+        },
+        {
+          "sigla": "IIC3143",
+          "semestre": "2025-1",
+          "nota": "4,9"
+        }
+      ]
+    }
+  ]
+}
